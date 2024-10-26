@@ -4,7 +4,7 @@
     </p>
     <p align="center">
 	    <a href="https://pkg.go.dev/github.com/dcaraxes/gotenberg-go-client/v8"><img src="https://pkg.go.dev/badge/github.com/dcaraxes/gotenberg-go-client/v8.svg" alt="Go Reference"></a>
-	    <a href="https://goreportcard.com/badge/github.com/dcaraxes/gotenberg-go-client/v8"><img src="https://img.shields.io/badge/go%20report-A+-brightgreen.svg?style=flat" alt="Goreportcard></a>
+	    <a href="https://goreportcard.com/badge/github.com/dcaraxes/gotenberg-go-client/v8"><img src="https://img.shields.io/badge/go%20report-A+-brightgreen.svg?style=flat" alt="Goreportcard"></a>
     </p>
 </p>
 

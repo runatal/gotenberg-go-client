@@ -2,7 +2,9 @@
     <h1 align="center">Gotenberg Go Client</h1>
     <p align="center">The Go client for interacting with a Gotenberg API. This project is a further development of the <a href="https://github.com/thecodingmachine/gotenberg-go-client">client from TheCodingMachine</a>, which does not support the new functionality since version 7 of Gotenberg.
     </p>
-    <a href="https://pkg.go.dev/github.com/dcaraxes/gotenberg-go-client/v8"><img src="https://pkg.go.dev/badge/github.com/dcaraxes/gotenberg-go-client/v8.svg" alt="Go Reference"></a>
+    <p align="center">
+	    <a href="https://pkg.go.dev/github.com/dcaraxes/gotenberg-go-client/v8"><img src="https://pkg.go.dev/badge/github.com/dcaraxes/gotenberg-go-client/v8.svg" alt="Go Reference"></a>
+    </p>
 </p>
 
 ---
